@@ -1,5 +1,4 @@
-# Dacon_Prediction
-
+# Electricity-use-prediction_Regression_Dacon
 https://dacon.io/competitions/official/236125/overview/description
 
 Regression modelling for electricity usage prediction with the given dataset from Dacon
